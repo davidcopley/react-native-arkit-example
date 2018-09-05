@@ -1,4 +1,4 @@
-package com.arkitlearning;
+package com.arkit-learning;
 
 import android.app.Application;
 
